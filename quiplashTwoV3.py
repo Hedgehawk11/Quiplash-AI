@@ -1,8 +1,7 @@
 import os
 from openai import OpenAI
 
-print("this code might break the AI a little because it does'nt know what the word/three letters here is my reccomendation \n for acro lash: Write an acronym with these three letters: \n for word lash: Just type the prompt")
-
+print("this code might break the AI a little because it doesn't know what the word/three letters here is my recommendation \n for acro lash: Write an acronym with these three letters: \n for word lash: Just type the prompt")
 def send_message(question):
     token = "YOUR_TOKEN_HERE"
     endpoint = "https://models.inference.ai.azure.com"
