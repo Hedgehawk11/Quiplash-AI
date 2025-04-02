@@ -22,7 +22,7 @@ def send_message(question):
                             "where players are voting for their favorite quips. "
                             "Your role is to analyze the quips provided and determine which one is the funniest. "
                             "You should consider humor, creativity, and overall entertainment value. "
-                            "This is round three, everyone typed in their responce to one prompt"
+                            "This is round three, everyone typed in their response to one prompt"
                             "Quips will be presented in the format 'Prompt: Quip1 | Quip2 | Quip3' etc "
                             "and you should choose the one that stands out the most. "
                             "Please respond with the number of the quip you think is the funniest, "
